@@ -1,27 +1,46 @@
-# 💫 About Me:
-🔭 I’m currently working on Euler Projects<br>👯 I’m looking to collaborate on new developing projects with your beautiful ideas<br>🤝 I’m looking for help with cybersecurity learning process<br>🌱 I’m currently learning CISCO CNNA<br>💬 You can share with me your questions and suggestions.<br>⚡ Fun fact about me that I really love swimming such as a shark. 
+### 🦠Hello welcome to my page🦠
+
+![faruk0-gif](faruk0.gif)
+<!--
+![faruk2-gif](faruk2.gif)
+![faruk3-gif](faruk3.gif)
+-->
+<!--
+---------------------------
+-->
+
+## Progress in Projects 🦠
+| No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
+| :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
+| 1   | [Libft](../../../Libft)                  | ✅100  |   | 9   | [Minishell](../../../Minishell)          | ✅100  |   | 18  | CPP06                               | 🔒     |
+| 2   | [Ft_printf](../../../Ft_printf)          | ✅100  |   | E3  | [Exam-3](../../../Exam-03)                  | ✅100  |   | 19  | CPP07                               | 🔒     |
+| 3   | [Get_next_line](../../../Get_next_line)  | ✅125  |   | 10  | [NetPractice](../../../NetPractice)      | ✅100  |   | 20  | CPP08                                     | 🔒     |
+| 4   | [Born2beroot](../../../Born2beroot)      | ✅100  |   | 11.1| [Cub3d](../../../Cub3d)                     | ✅100  |   | 21  | CPP09                               | 🔒     |
+| 5.1 | [So_long](../../../So_long)              | ✅111  |   | 11.2| MiniRT                                      | 🔒     |   | 22  | Inception                                   | 🔒     |
+| 5.2 | FdF                                      | 🔒     |   | 12  | [CPP00](../../../CPP-Modules/tree/main/CPP00) | ✅80     |   | 23.1| Webserv                                     | 🔒     |
+| 5.3 | Fract-ol                                 | 🔒     |   | 13  | [CPP01](../../../CPP-Modules/tree/main/CPP01) | ✅100    |   | 23.2| Ft_irc                                      | 🔒     |
+| 6.1 | [Minitalk](../../../Minitalk)            | ✅115  |   | 14  | [CPP02](../../../CPP-Modules/tree/main/CPP02) | 📝     |   | E5  | Exam_5                                      | 🔒     |
+| 6.2 | Pipex                                    | 🔒     |   | 15  | CPP03                               | 🔒     |   | 24  | Ft_transcendence                            | 🔒     |
+| 7   | [Push_swap](../../../Push_swap)          | ✅84   |   | 16  | CPP04                               | 🔒     |   | E6  | Exam_6                                      | 🔒     |
+| E2  | [Exam-2](../../../Exam-2)                | ✅100  |   | E4  | Exam_4                                      | 🔒     |
+| 8   | [Philosphers](../../../Philosophers )    | ✅100  |   | 17  | CPP05                               | 🔒     |
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/doganalppp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/doğan-alp-akbaş-890680252) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@doganalpakbas5228) 
+[![Apoorv's github && 42 stats](https://github-readme-stats-sigma-five.vercel.app/api?username=farukdll&show_icons=github&theme=vision-friendly-dark)](https://github.com/farukdll)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dd179&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dd179&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dd179&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+[![Apoorv's github && 42 stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=farukdll&layout=compact&theme=vision-friendly-dark)](https://github.com/farukdll)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/farukdll/count.svg"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dd179&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farukdll&show_icons=true&locale=en&layout=compact" alt="farukdll" /></p>
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+[![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=farukdll&cardType=github&theme=vision-friendly-dark)](https://github.com/farukdll)
 
----
-[![](https://visitcount.itsvg.in/api?id=dd179&icon=5&color=3)](https://visitcount.itsvg.in)
+[![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=farukdll&cardType=github&theme=outrun)](https://github.com/farukdll)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=farukdll&cardType=github&theme=great-gatsby)](https://github.com/farukdll)
+-->
